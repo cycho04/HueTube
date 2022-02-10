@@ -10,7 +10,7 @@
     "axios": "^0.18.1",
     "faker": "^4.1.0",
     "g": "^2.0.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-clamp-lines": "^2.4.0",
